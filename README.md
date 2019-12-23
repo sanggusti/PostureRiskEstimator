@@ -2,7 +2,7 @@
 ## Integration of Pose Recognition Face Recognition with Movement Risk Estimation
 
 Final iteration of the program.
-![Final](docs/img/ss01.png)
+![Final](docs/img/ss01.gif)
 
 Previous iteration of the program, before the authorization functionality fully implemented (face recognition paired with clothes identification).
 ![Previous](docs/img/ss02.png)
