@@ -1,0 +1,7 @@
+~35k total legit poses
+Train & test have totally different augmented results
+(coz random val). Both contain the same original poses.
+
+Grouping result:
+[414, 455, 435, 404, 332, 234, 310, 336, 288, 227, 298, 229, 213, 169, 250, 235, 441] 5270
+[414, 455, 435, 404, 332, 234, 310, 336, 288, 227, 298, 229, 213, 169, 250, 235, 441] 5270
